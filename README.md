@@ -1,6 +1,6 @@
 # DocTools
 ### AI-powered documentation and developer tools
-Built by Łukasz Pekala — 15 years in technical documentation, now building the tools that do it.
+Built by Luke Pekala — 15 years in technical documentation, now building the tools that do it.
 
 ---
 
@@ -61,7 +61,7 @@ PostgreSQL · Supabase · Claude API · RAG · Vercel · GitHub
 
 ## About me
 
-I'm Łukasz — Lead Technical Engineer at Phoenix Contact (Poland SSC),
+I'm Luke — Lead Technical Engineer at Phoenix Contact (Poland SSC),
 where I've led documentation strategy, built knowledge systems,
 and driven AI adoption in content workflows.
 
