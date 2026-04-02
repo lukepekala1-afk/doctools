@@ -27,7 +27,7 @@ HTML · CSS · Vanilla JavaScript · React
 
 | App | What it does | Status |
 |-----|-------------|--------|
-| A — StyleGuard | Documentation linter — passive voice, weak verbs, filler words. 35 rules, clarity score, no login. | Live · Code |
+| A — StyleGuard | Documentation linter — passive voice, weak verbs, filler words. 35 rules, clarity score, no login. | https://styleguard.vercel.app/ |
 | E — MarkFlow | Markdown editor with live preview | 🚧 |
 
 ### Phase 2 — Product (Apps G–M)
@@ -54,8 +54,7 @@ Next.js · Stripe · GitHub Apps · CLI · npm
 ---
 
 ## Stack
-HTML · CSS · JavaScript · React · Node.js · Express
-PostgreSQL · Supabase · Claude API · RAG · Vercel · GitHub
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Supabase` `Claude API` `RAG` `Vercel` `GitHub`
 
 ---
 
@@ -65,10 +64,9 @@ I'm Luke — Lead Technical Engineer at Phoenix Contact (Poland SSC),
 where I've led documentation strategy, built knowledge systems,
 and driven AI adoption in content workflows.
 
-I'm interested in AI product development — specifically tools
-for developers and knowledge workers.
+The problems I'm most drawn to: how do developers find information faster, how do knowledge workers stop losing context, and how does AI change both. If you're building in that space — I'd like to connect.
 
-🔗 LinkedIn: linkedin.com/in/luke-pekala
+🔗 [LinkedIn](https://linkedin.com/in/luke-pekala)
 📚 Udemy Course: Technical Writing & Business Communication
 🎓 Postgrad: AI in Business & Business Process Automation (2024–2025)
 
