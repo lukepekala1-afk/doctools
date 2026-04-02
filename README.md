@@ -23,12 +23,17 @@ using modern web technology and AI APIs.
 ## The Portfolio
 
 ### Phase 1 — Foundation (Apps A–F)
-HTML · CSS · Vanilla JavaScript · React
+*HTML · CSS · Vanilla JavaScript · React*
+Core tools. Real problems. Shipped and live.
 
 | App | What it does | Status |
 |-----|-------------|--------|
-| A — StyleGuard | Documentation linter — passive voice, weak verbs, filler words. 35 rules, clarity score, no login. | https://styleguard.vercel.app/ |
-| E — MarkFlow | Markdown editor with live preview | 🚧 |
+| **A — StyleGuard** | Documentation linter — passive voice, weak verbs, filler words. 35 rules, clarity score, no login. | [Live](https://styleguard.vercel.app/) · [Code](https://github.com/luke-pekala/style-guard) |
+| **B — GlossaryKit** | Glossary manager for technical teams — add terms, definitions, usage examples, and forbidden synonyms. Search, filter, and export as CSV, JSON, or Markdown. | [Live](https://glossarykit.vercel.app/) · [Code](https://github.com/luke-pekala/glossarykit) |
+| **C** | Coming soon | 🚧 |
+| **D** | Coming soon | 🚧 |
+| **E — MarkFlow** | Markdown editor with live preview | 🚧 |
+| **F** | Coming soon | 🚧 |
 
 ### Phase 2 — Product (Apps G–M)
 Node.js · Express · PostgreSQL · Supabase
@@ -73,4 +78,4 @@ The problems I'm most drawn to: how do developers find information faster, how d
 ---
 
 Building in public. Shipping every few weeks.
-Last updated: April 2026
+Last updated: April 2026 — Apps A and B live
