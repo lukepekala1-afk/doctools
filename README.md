@@ -29,7 +29,7 @@ Core tools. Real problems. Shipped and live.
 | App | What it does | Status |
 |-----|-------------|--------|
 | **A — StyleGuard** | Documentation linter — passive voice, weak verbs, filler words. 35 rules, clarity score, no login. | [Live](https://styleguard.vercel.app/) · [Code](https://github.com/luke-pekala/style-guard) |
-| **B — GlossaryKit** | Glossary manager for technical teams — add terms, definitions, usage examples, and forbidden synonyms. Search, filter, and export as CSV, JSON, or Markdown. | [Live](https://glossarykit.vercel.app/) · [Code](https://github.com/luke-pekala/glossarykit) |
+| **B — GlossaryKit** | Glossary manager for technical teams — add terms, definitions, usage examples, and forbidden synonyms. Search, filter, and export as CSV, JSON, or Markdown. | [Live](https://glossarykit.vercel.app/) · [Code](https://github.com/luke-pekala/glossary-kit) 
 | **C** | Coming soon | 🚧 |
 | **D** | Coming soon | 🚧 |
 | **E — MarkFlow** | Markdown editor with live preview | 🚧 |
